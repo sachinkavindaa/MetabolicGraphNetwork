@@ -19,3 +19,5 @@ for ko in kos:
     rows.append({"KO": ko, "EC": ";".join(ec), "RXN": ";".join(rxn)})
 
 pd.DataFrame(rows).to_csv("ko_to_ec_rxn.csv", index=False)
+
+#
