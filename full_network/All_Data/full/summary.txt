@@ -1,0 +1,3 @@
+[full] NODES=1497  EDGES=145032  DENSITY=0.064761
+Total edge weight=483813.0  Avg edge weight=3.3359  Reciprocal pairs=18405
+Shortest paths (undirected) — AVG=0.496704  MEDIAN=0.349091  MIN=0.004329  MAX=4.20667  [reachable pairs=2239512]

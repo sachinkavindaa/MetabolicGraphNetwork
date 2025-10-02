@@ -1,0 +1,10 @@
+{
+  "timestamp": "20250917_094802",
+  "input_file": "edges_enzyme_enzyme.csv",
+  "filtered_nodes": 149,
+  "filtered_edges": 5012,
+  "communities": 3,
+  "hubs": 15,
+  "node_percent": 10.0,
+  "edge_percent": 15.0
+}

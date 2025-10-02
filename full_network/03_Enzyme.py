@@ -1,8 +1,8 @@
 import re
 import pandas as pd
 
-KO_EC_RXN = "/work/samodha/sachin/MWAS/Final_Graph/Test/Full_data_EX_RXN.csv"          # change if your paths differ
-RXN_METS  = "/work/samodha/sachin/MWAS/Final_Graph/Test/reaction_metabolites.csv"  # change if your paths differ
+KO_EC_RXN = "/work/samodha/sachin/MWAS/full_network/Fulldata_EX_RXN.csv"          # change if your paths differ
+RXN_METS  = "/work/samodha/sachin/MWAS/full_network/reaction_metabolites.csv"  # change if your paths differ
 
 def rnum(s):
     m = re.search(r"(R\d{5})", str(s).upper())

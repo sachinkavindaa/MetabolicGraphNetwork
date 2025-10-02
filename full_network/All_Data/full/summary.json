@@ -1,0 +1,100 @@
+{
+  "tag": "full",
+  "nodes": 1497,
+  "edges": 145032,
+  "density": 0.064761,
+  "total_edge_weight": 483813.0,
+  "avg_edge_weight": 3.335905179546583,
+  "reciprocal_pairs": 18405,
+  "avg_shortest_path_length": 0.4967044714632717,
+  "median_shortest_path_length": 0.3490909090909091,
+  "min_shortest_path_length": 0.004329004329004329,
+  "max_shortest_path_length": 4.206669609630136,
+  "avg_path_mode": "undirected",
+  "avg_path_reachable_pairs": 2239512,
+  "clustering_mode": "undirected",
+  "top10_pagerank": [
+    {
+      "node": "K00760",
+      "pagerank": 0.016702913711148473
+    },
+    {
+      "node": "K03783",
+      "pagerank": 0.011932827056696139
+    },
+    {
+      "node": "K03784",
+      "pagerank": 0.011932827056696139
+    },
+    {
+      "node": "K05549",
+      "pagerank": 0.011032186857777947
+    },
+    {
+      "node": "K02434",
+      "pagerank": 0.007231573070736773
+    },
+    {
+      "node": "K02435",
+      "pagerank": 0.007231573070736773
+    },
+    {
+      "node": "K02433",
+      "pagerank": 0.007231573070736773
+    },
+    {
+      "node": "K09828",
+      "pagerank": 0.006337264061629984
+    },
+    {
+      "node": "K00940",
+      "pagerank": 0.0061521846145772075
+    },
+    {
+      "node": "K00128",
+      "pagerank": 0.0058049153662467715
+    }
+  ],
+  "top10_betweenness": [
+    {
+      "node": "K05549",
+      "betweenness": 0.6778412444333161
+    },
+    {
+      "node": "K00128",
+      "betweenness": 0.4071638080589487
+    },
+    {
+      "node": "K01782",
+      "betweenness": 0.23885010982197502
+    },
+    {
+      "node": "K01825",
+      "betweenness": 0.23885010982197502
+    },
+    {
+      "node": "K03787",
+      "betweenness": 0.1252460668061691
+    },
+    {
+      "node": "K02433",
+      "betweenness": 0.09845452975684336
+    },
+    {
+      "node": "K02435",
+      "betweenness": 0.09845452975684336
+    },
+    {
+      "node": "K02434",
+      "betweenness": 0.09845452975684336
+    },
+    {
+      "node": "K00632",
+      "betweenness": 0.09467662559094783
+    },
+    {
+      "node": "K21071",
+      "betweenness": 0.09399206505344612
+    }
+  ]
+}
